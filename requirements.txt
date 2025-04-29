@@ -1,4 +1,6 @@
-Flask
-Flask-CORS
-Flask-SQLAlchemy
-gunicorn
+Flask>=3
+Flask-CORS>=4
+Flask-SQLAlchemy>=3
+python-dotenv>=1
+click>=8
+Gunicorn>=22
