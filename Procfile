@@ -1,0 +1,1 @@
+web: gunicorn backend.candidate_verification_tool_backend:app
